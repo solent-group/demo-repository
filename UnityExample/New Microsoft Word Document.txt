@@ -1,0 +1,17 @@
+Example code
+
+class{
+	func (){
+		some
+		code
+		stuff
+	}
+}
+
+class{
+	func(){
+		cool
+		code
+		here
+	}
+}
