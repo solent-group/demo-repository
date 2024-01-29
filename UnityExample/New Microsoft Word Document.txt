@@ -9,9 +9,5 @@ class{
 }
 
 class{
-	func(){
-		cool
-		code
-		here
-	}
+	// removed func because not needed
 }
