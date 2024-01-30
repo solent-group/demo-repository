@@ -1,0 +1,13 @@
+Example code
+
+class{
+	func (){
+		some
+		code
+		stuff
+	}
+}
+
+class{
+	// removed func because not needed
+}
